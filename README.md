@@ -1,5 +1,5 @@
-# Ultrasonic Sensor Based Troll Gate
-This project is a DIY troll gate system that uses an ultrasonic sensor to detect approaching objects and trigger a gate to close and open.
+# Ultrasonic Sensor Based Toll Gate
+This project is a DIY toll gate system that uses an ultrasonic sensor to detect approaching objects and trigger a gate to close and open.
 
 ## Table of Contents
 1. Introduction
@@ -9,7 +9,7 @@ This project is a DIY troll gate system that uses an ultrasonic sensor to detect
 5. Usage
 
 ## Introduction
-The Ultrasonic Sensor Based Troll Gate is a simple system that can be used to block trolls from entering certain areas. The system consists of an ultrasonic sensor, an Arduino board, and a gate mechanism. The ultrasonic sensor is used to detect the distance of any approaching objects. When an object is detected within a certain distance, the gate will automatically close to block the troll's path. Once the troll moves away from the sensor, the gate will automatically open again.
+The Ultrasonic Sensor Based Troll Gate is a simple system that can be used to block trolls from entering certain areas. The system consists of an ultrasonic sensor, an Arduino board, and a gate mechanism. The ultrasonic sensor is used to detect the distance of any approaching objects. When an object is detected within a certain distance, the gate will automatically close to block the toll's path. Once the toll moves away from the sensor, the gate will automatically open again.
 
 This project can be used in a variety of settings, such as private properties, museums, and theme parks, where a gate system is needed to prevent unauthorized access.
 
